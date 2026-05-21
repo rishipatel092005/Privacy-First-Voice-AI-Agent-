@@ -149,6 +149,4 @@ When you speak, your audio is:
 - Model missing: run `ollama pull gemma3:1b`
 - FFmpeg warning from pydub: safe to ignore for this app
 
-## Credits / Reference
 
-- Inspired by the YouTube tutorial: [Local Voice AI Agent tutorial](https://youtu.be/M6vI4Wk-Y4Q?si=BGuYTTjvWTLQ1dAY)
