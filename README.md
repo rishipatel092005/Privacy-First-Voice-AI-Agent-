@@ -1,4 +1,4 @@
-# Local Voice AI Agent
+# Privacy-First Voice AI Agent   
 
 A real-time voice chat application powered by local AI models. Have voice conversations with local LLMs via Ollama (Gemma 3). Runs fully on your laptop.
 
